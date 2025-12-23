@@ -1,0 +1,32 @@
+{
+    "data_paths": {
+        "base_extracted_dir": "extracted_rar/EEG_data/baseline_data.pkl",
+        "labels_file": "extracted_rar/EEG_data/labels.pkl",
+        "stimuli_files": [
+            "extracted_rar/EEG_data/stimuli_0_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_1_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_2_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_3_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_4_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_5_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_6_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_7_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_8_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_9_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_10_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_11_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_12_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_13_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_14_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_15_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_16_clip.pkl",
+            "extracted_rar/EEG_data/stimuli_17_clip.pkl"
+        ]
+    },
+    "file_id" : "1UHFqTECwXi16FNzts_gpmAqGpx5GpOsu" , 
+    "emotions":{
+        "arousal" : 0 , 
+        "valence" : 1 ,
+        "dominance":2
+    }
+}
